@@ -11,3 +11,5 @@ print(df.columns)
 #네 알겠습니다! 여기서부터 작업하겠습니다!
 
 print(df[df["goals_scored"]>100])
+
+#여기서 조금만 수정해 보겠습니다. 
